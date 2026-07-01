@@ -89,8 +89,8 @@ app.innerHTML = `
       <p class="section-eyebrow">03 — Contact</p>
       <h2>Let’s build something.</h2>
       <a href="mailto:adinu.dev@gmail.com" class="btn-cta">hello@adinu.dev</a>
-      <a href="tel:+91989535209" class="btn-cta">Call Me Now</a>
-      <a href="https://wa.me/91989535209" class="btn-cta">WhatsApp Me</a>
+      <a href="tel:+91989535209" class="btn-cta">Call Me Now</a><br>
+      <a href="https://wa.me/919895352709" class="btn-cta">WhatsApp Me</a>
     </section>
   </main>
 
