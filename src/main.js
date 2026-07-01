@@ -90,7 +90,7 @@ app.innerHTML = `
       <h2>Let’s build something.</h2>
       <a href="mailto:adinu.dev@gmail.com" class="btn-cta">hello@adinu.dev</a>
       <a href="tel:+91989535209" class="btn-cta">Call Me Now</a><br>
-      <a href="https://wa.me/919895352709" class="btn-cta">WhatsApp Me</a>
+      <a href="https://wa.me/+919895352709?text=Hi%20Adinu%20%F0%9F%98%8A%2C%0AI'd%20like%20you%20to%20build%20a%20website%20for%20me.%20Are%20you%20available%20to%20take%20this%20on%3F" class="btn-cta">WhatsApp Me</a>
     </section>
   </main>
 
