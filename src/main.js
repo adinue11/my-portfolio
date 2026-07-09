@@ -66,7 +66,7 @@ app.innerHTML = `
           <p>React · Tailwind · Three JS · Vanilla JS</p></a>
         </article>
         <article class="card">
-          <a href="almarri-accessories.vercel.app" target="_blank" rel="noopener noreferrer">
+          <a href="https://almarri-accessories.vercel.app" target="_blank" rel="noopener noreferrer">
           <div class="card-dot"></div>
           <h3>E-commerce UI</h3>
           <p>React · JS · CSS · Supabase</p></a>
