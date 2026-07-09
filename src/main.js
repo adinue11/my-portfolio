@@ -60,7 +60,7 @@ app.innerHTML = `
       <h2>Things I’ve shipped.</h2>
       <div class="card-grid">
         <article class="card">
-          <a href="https://adinu.dev.vercel.app" target="_blank" rel="noopener noreferrer">
+          <a href="https://adinu-dev.vercel.app" target="_blank" rel="noopener noreferrer">
           <div class="card-dot"></div>
           <h3>Portfolio Site</h3>
           <p>React · Tailwind · Three JS · Vanilla JS</p></a>
@@ -69,7 +69,7 @@ app.innerHTML = `
           <a href="almarri-accessories.vercel.app" target="_blank" rel="noopener noreferrer">
           <div class="card-dot"></div>
           <h3>E-commerce UI</h3>
-          <p>React · JS · CSS</p></a>
+          <p>React · JS · CSS · Supabase</p></a>
         </article>
         <article class="card">
           <div class="card-dot"></div>
