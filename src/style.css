@@ -48,7 +48,6 @@ body, p, h1, h2, h3, a {
 }
 
 .navbar {
-  display: sticky;
   position: sticky;
   top: 0;
   z-index: 40;
@@ -62,6 +61,7 @@ body, p, h1, h2, h3, a {
   margin: 0 auto;
   padding: 16px 24px;
   display: flex;
+  position: sticky;
   align-items: center;
   justify-content: space-between;
   min-height: 64px;
