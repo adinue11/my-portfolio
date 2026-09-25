@@ -60,6 +60,12 @@ app.innerHTML = `
       <h2>Things I’ve shipped.</h2>
       <div class="card-grid">
         <article class="card">
+          <a href="https://www.torgwholesale.com" target="_blank" rel="noopener noreferrer">
+          <div class="card-dot"></div>
+          <h3>Torg wholesale Clothing</h3>
+          <p>React · TypeScript · Tailwind · Supabase · PostgreSQL · Zod · TanStack Query · Framer Motion </p></a>
+        </article>
+        <article class="card">
           <a href="https://adinu-dev.vercel.app" target="_blank" rel="noopener noreferrer">
           <div class="card-dot"></div>
           <h3>Portfolio Site</h3>
